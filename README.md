@@ -16,7 +16,7 @@ Use the contained schema.sql to get the database, and run "npm run seed" to seed
 
 
 ## Links
-
+- https://github.com/ckisi/e-commerce-back-end
 
 ## Credits
 Xpert Learning Assistant
