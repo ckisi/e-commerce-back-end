@@ -13,10 +13,13 @@ Use the contained schema.sql to get the database, and run "npm run seed" to seed
 - PostgreSQL
 
 ## Screenshots
-
+![](./assets/ecommercess1.png)
+![](./assets/ecommercess2.png)
+![](./assets/ecommercess3.png)
 
 ## Links
 - https://github.com/ckisi/e-commerce-back-end
+- Video: https://drive.google.com/file/d/1Navasosmt0dMBlklQN4JbYiZ5Hco0lUf/view
 
 ## Credits
 Xpert Learning Assistant
